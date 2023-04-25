@@ -1,0 +1,62 @@
+Epoch 1:
+  Train loss: 0.6569
+  Dev loss: 0.5043
+  Dev accuracy: 0.7603
+  Dev F1: 0.7032
+best model update
+Epoch 2:
+  Train loss: 0.7486
+  Dev loss: 0.3962
+  Dev accuracy: 0.8630
+  Dev F1: 0.7876
+best model update
+Epoch 3:
+  Train loss: 1.6593
+  Dev loss: 0.4407
+  Dev accuracy: 0.8493
+  Dev F1: 0.7722
+Epoch 4:
+  Train loss: 0.0527
+  Dev loss: 0.2902
+  Dev accuracy: 0.8836
+  Dev F1: 0.8789
+best model update
+Epoch 5:
+  Train loss: 1.6756
+  Dev loss: 0.4615
+  Dev accuracy: 0.8767
+  Dev F1: 0.8054
+Epoch 6:
+  Train loss: 1.6202
+  Dev loss: 0.4797
+  Dev accuracy: 0.8767
+  Dev F1: 0.7853
+Epoch 7:
+  Train loss: 0.0174
+  Dev loss: 0.3600
+  Dev accuracy: 0.8836
+  Dev F1: 0.8433
+Epoch 8:
+  Train loss: 0.0211
+  Dev loss: 0.3852
+  Dev accuracy: 0.8836
+  Dev F1: 0.8715
+Epoch 9:
+  Train loss: 0.0190
+  Dev loss: 0.4080
+  Dev accuracy: 0.8836
+  Dev F1: 0.8755
+Epoch 10:
+  Train loss: 0.1760
+  Dev loss: 0.4480
+  Dev accuracy: 0.8767
+  Dev F1: 0.8520
+best model is saved
+              precision    recall  f1-score   support
+
+           0       0.88      0.92      0.90        93
+           1       0.85      0.77      0.81        53
+
+    accuracy                           0.87       146
+   macro avg       0.87      0.85      0.86       146
+weighted avg       0.87      0.87      0.87       146
